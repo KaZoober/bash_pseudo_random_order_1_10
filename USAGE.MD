@@ -1,5 +1,4 @@
 ## Usage
-#
 # Make it executable
 chmod +x bash_random_order.sh
 # Get it done!
